@@ -1,0 +1,2 @@
+# gentoo-notes
+Gentoo Notes
